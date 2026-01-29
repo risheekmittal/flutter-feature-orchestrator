@@ -22,3 +22,12 @@ Build a Developer Tools UI panel for real-time feature toggling and local state 
 
 ## Day 4
 Build a Developer Tools UI panel for real-time feature toggling and local state persistence
+## Day 5
+Develop unit tests for the configuration manager and repository logic
+
+## Day 5
+Develop unit tests for the configuration manager and repository logic
+
+
+## Day 5
+Develop unit tests for the configuration manager and repository logic
